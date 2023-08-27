@@ -14,3 +14,7 @@ function save() {
     countEl.textContent = 0
     count = 0
 }
+
+
+window.increment = increment
+window.save = save
